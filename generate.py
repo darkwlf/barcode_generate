@@ -1,6 +1,5 @@
 from barcode import Code39
 from barcode.writer import ImageWriter
-import datetime
 import random
 
 price = input("Price:")
